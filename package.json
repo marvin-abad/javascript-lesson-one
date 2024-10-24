@@ -1,0 +1,15 @@
+{
+  "name": "javascript-lesson-one",
+  "version": "1.0.0",
+  "description": "javascript lesson",
+  "main": "index.html",
+  "scripts": {
+    "start": "node js/script.js",
+    "dev": "nodemon js/script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
